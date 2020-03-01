@@ -7,3 +7,6 @@ logic:
 - join a single ASCII digit to a string
 - map the ASCII value
 - join the result to a string
+
+
+part 2 isn't finished.
